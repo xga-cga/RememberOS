@@ -7,13 +7,13 @@ RememberOS  April 4, 2024
 
 ::GOALS::
 save states -- application and system
-Little or no processing
-	Use Look up tables and adding but no or limited processing.
-No having to remember how to use
-  -- on screen display
-  -- paper icon labels on keyboard
+        A.  Little or no processing
+	B.  Use Look up tables and adding but no or limited processing.
+  No having to remember how to use
+            A.-- on screen display
+            B.-- paper icon labels on keyboard
 
-::SYSTEM IDEAS
+ ::SYSTEM IDEAS
 
 -PLAY-
 SOFTWARE
@@ -29,8 +29,8 @@ SOFTWARE
 store retrieve video files.
 
 -CONTROLS-
---  ARROWS, ENTER (on numpad)
---  Press a letter for an application
---  to go back reboot, or turn computer on/off
+ARROWS, ENTER (on numpad)
+Press a letter for an application (button user interface)
+to go back reboot, or turn computer on/off
 
 
